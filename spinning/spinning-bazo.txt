@@ -1,0 +1,9 @@
+1 - pilko
+2 - pilko
+          -- + kontaktpilok
+          -- + pilko ĉe la piedo
+
+1 - telero
+2 - teleroj
+3 - teleroj
+            + fluto
